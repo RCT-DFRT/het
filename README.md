@@ -16,9 +16,9 @@ Mac，Linux：下载Source Code.zip/.tar.gz文件，打开trp.py
 
 Windows：Windows 7 SP1及以上（Het全代）
 
-Mac：macOS 10.9及以上（需要安装Python + tkinter + just_playback）
+Mac：macOS 10.9及以上（需要安装Python + tkinter + just_playback）（Het 1.6）
 
-Linux：Ubuntu 18.04+，Debian 10+
+Linux：Ubuntu 18.04+，Debian 10+（Het 1.6）
 
 （Het 1.0~1.2使用Windows MCI音频接口，无法在除Windows以外的平台上使用）
 
