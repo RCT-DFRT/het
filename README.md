@@ -50,7 +50,7 @@ Het 1.6：wav，MP3，flac，M4A（如果有），OGG
 
 4.当前状态——查询当前状态
 
-5.JSON读取（Het 1.0~1.2）：读取JSON
+5.JSON读取（Het 1.2）：读取JSON
 
 **6.程序依赖**
 
