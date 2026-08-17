@@ -70,6 +70,6 @@ Het 1.6：约20MB
 
 下载链接：https://rct-dfrt.github.io/player-download
 
-联系方式：https://www.bilibili.com/3546914186333153
+联系方式：https://space.bilibili.com/3546914186333153
 
 如有疑问可找联系作者，或提交issue
