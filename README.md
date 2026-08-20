@@ -1,75 +1,83 @@
-### Het 播放器
+### Het
 
-欢迎使用Het播放器！
+Welcome to Het! 
 
-在开始之前，请先阅读一些说明
+Before you start, please read the following instructions.
 
-**1.如何使用：**
+**How to use:**
 
-Windows：解压“Het”开头的zip/rar文件，双击het.exe或Het.exe
+Windows: Extract the zip/rar file starting with "Het", double-click het.exe or Het.exe
 
-Mac，Linux：下载Source Code.zip/.tar.gz文件，打开trp.py
+Mac, Linux: Download Source Code.zip/.tar.gz, open trp.py
 
-**2.支持的系统：**
+**Supported systems:**
 
-如果你和我一样正在使用Windows的旧版本，请仔细观看！！！
+If you are using an older version of Windows like me, please read carefully!!!
 
-Windows：Windows 7 SP1及以上（Het全代）
+Windows: Windows 7 SP1 and above (all Het generations)
 
-Mac：macOS 10.9及以上（需要安装Python + tkinter + just_playback）（Het 1.6）
+Mac: macOS 10.9 and above (Python + tkinter + just_playback required) (Het 1.6)
 
-Linux：Ubuntu 18.04+，Debian 10+（Het 1.6）
+Linux: Ubuntu 18.04+, Debian 10+ (Het 1.6)
 
-（Het 1.0~1.2使用Windows MCI音频接口，无法在除Windows以外的平台上使用）
+(Het 1.0~1.2 use Windows MCI audio interface, cannot be used on platforms other than Windows)
 
-**3.支持的音频格式：**
+**Supported audio formats:**
 
-Het 1.0~1.2：wav，MP3，mid文件
+Het 1.0~1.2: wav, MP3, mid files
 
-Het 1.6：wav，MP3，flac，M4A（如果有），OGG
+Het 1.6: wav, MP3, flac, M4A (if available), OGG
 
-什么？你说Het 1.3~1.5？我跳过了(awa)
+What? You said Het 1.3~1.5? I ate them (awa)
 
-**4.免责声明：**
+**Disclaimer:**
 
-1.Het使用**MIT**许可证开源，请遵守**MIT**许可证上的条例
+Het is open source under the MIT License, please comply with the terms of the MIT License.
 
-2.本人不承担你使用Het所造成的法律责任
+I am not responsible for any legal liability arising from your use of Het.
 
-3.使用Het需遵守你所在地区的法律法规
+Using Het must comply with the laws and regulations of your region.
 
-4.如果你在Mac/Linux上因为没有安装Python，tkinter，just_playback等依赖而导致无法运行的，自行安装
+If you are on Mac/Linux and cannot run due to missing dependencies such as Python, tkinter, just_playback, please install them yourself.
 
-**5.内置命令：**
+Built-in commands:
 
-1.播放等——播放歌曲
+Play, etc. — play songs
 
-2.加，减——音量的加减调整
+Add, subtract — adjust volume up/down
 
-3.暂停：播放时输入暂停将暂停正在播放的音乐，暂停时输入暂停将恢复播放音乐
+Pause: input pause during playback will pause the playing music; input pause while paused will resume playback
 
-4.当前状态——查询当前状态
+Current status — query current status
 
-5.JSON读取（Het 1.2）：读取JSON
+JSON read (Het 1.2): read JSON
 
-**6.程序依赖**
+Program dependencies
 
-Windows：可直接运行
+(Warning: Het not support English.)
 
-Mac：需要到官网安装Python，再pip install just_playback
+**Run: **
 
-Linux：需要安装Python，tkinter，just_playback
+Windows: can run directly
 
-**7.程序大小：**
+Mac: need to install Python from the official website, then pip install just_playback
 
-Het 1.0~1.2：约19.5MB
+Linux: need to install Python, tkinter, just_playback
 
-Het 1.6：约20MB
+**Program size:**
 
-**8.下载链接，作者联系方式：**
+Het 1.0~1.2: about 19.5MB
 
-下载链接：https://rct-dfrt.github.io/player-download
+Het 1.6: about 20MB
 
-联系方式：https://space.bilibili.com/3546914186333153
+**Download link, author contact:**
 
-如有疑问可找联系作者，或提交issue
+Download link: https://rct-dfrt.github.io/player-download
+
+Contact: https://space.bilibili.com/3546914186333153
+
+If you have questions, you can contact the author, or submit an issue.
+
+Thank you for using Het!!!
+
+If you want to a Chinese version see README-zh_CN-version.md
